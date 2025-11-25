@@ -1,5 +1,7 @@
 # pyPuzzle – rozszerzenie pyRevit z kostką Rubika
 
+![Animacja działania pyPuzzle](animacja_1.gif)
+
 **pyPuzzle** to rozszerzenie do **pyRevit**, które buduje w modelu parametryczną kostkę Rubika i pozwala nią sterować bezpośrednio w Revit.  
 Silnik napisany jest w Pythonie i korzysta z API Revita oraz pyRevit.
 
@@ -14,6 +16,10 @@ Silnik napisany jest w Pythonie i korzysta z API Revita oraz pyRevit.
 - **Ładuje rodzinę bazową** z katalogu `assets/rfa/Baza_01.rfa` bez twardych ścieżek – ścieżka wyliczana jest relatywnie względem `lib`.
 - **Instaluje współdzielony parametr `DATA`** we wszystkich kategoriach Model + Annotation (obsługa również Revit 2024+).
 - **Dodatkowy „szpieg”** – skrypt raportujący wszystkie rodziny, których nazwa zaczyna się na literę „B”, wraz z liczbą typów i instancji w projekcie.
+
+## Podgląd w Revit
+
+![Widok kostki Rubika w Revit](widok_1.jpg)
 
 ## Struktura rozszerzenia
 
