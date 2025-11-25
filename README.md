@@ -43,3 +43,4 @@ Silnik napisany jest w Pythonie i korzysta z API Revita oraz pyRevit.:contentRef
 
 Projekt jest w trakcie zabawy/eksperymentu – służy zarówno jako plugin do Revita, jak i poligon doświadczalny dla API oraz pyRevit w Pythonie.
 ```
+
