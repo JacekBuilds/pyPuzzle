@@ -1,0 +1,2 @@
+n=4
+animation_steps=15
