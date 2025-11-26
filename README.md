@@ -42,6 +42,7 @@ Silnik napisany jest w Pythonie i korzysta z API Revita oraz pyRevit.
 Kod rozszerzenia **pyPuzzle** jest udostępniany na licencji [MIT](./LICENSE).
 
 (c) Jacek Ślotała
+
 Ta licencja dotyczy wyłącznie tego repozytorium (kod rozszerzenia oraz skrypty
 Python). Sam pyRevit oraz Revit mają własne licencje i zasady użycia.
 
@@ -53,4 +54,5 @@ Przy implementacji kodu korzystano z pomocy modeli AI (m.in. OpenAI ChatGPT / GP
 oraz Google Gemini) jako narzędzi asystujących przy pisaniu i refaktoryzacji
 skryptów. Ostateczne decyzje projektowe i odpowiedzialność za kod należą do autora
 repozytorium.
+
 
